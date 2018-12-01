@@ -1,0 +1,46 @@
+#nav-logo {
+  padding-top: 9px;
+}
+
+#services-drop {
+  border: black;
+}
+
+.bright-7 {
+  filter: brightness(70%);
+}
+
+.bright-8 {
+  filter: brightness(80%);
+}
+
+#icon {
+  text-align: center;
+}
+
+#icon {
+  padding-top: 2em;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h4 {
+  font-weight: 600;
+}
+/* Override Link Text Color In Footer */
+footer a {
+  color: #eee;
+}
+
+/* Override Link Text Color In Paragraph 
+p a {
+  color: #eee;
+}*/
+/* Unify Image Height */
+#thumbnail {
+  height: 200px;
+  width: 100%;
+}
